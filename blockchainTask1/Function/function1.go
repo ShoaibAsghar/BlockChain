@@ -14,6 +14,7 @@ func argu_StructFunc(obj Person) {
 	fmt.Println("Age:    ", obj.age)
 	fmt.Println("Job:    ", obj.job)
 	fmt.Println("Salary: ", obj.salary)
+	fmt.Println("changes")
 
 }
 
